@@ -8,7 +8,7 @@
 This project is intended for:
 >Machine learning enthusiasts interested in image classification.
 >Researchers working on developing deep learning models for medical diagnosis.
->People who drives alot , specially in nights.
+>People who drives alot , specially in nights
 
 
 
